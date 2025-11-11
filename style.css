@@ -8,8 +8,12 @@ main {
     display: flex;
 }
 
-main p {
+main h1 {
     font-family:"Nunito", sans-serif ;
     color: #ac0d0d;
+}
 
+.jordan {
+    width: 80px;
+    
 }
