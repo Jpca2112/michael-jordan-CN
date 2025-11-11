@@ -12,6 +12,7 @@ header {
     background-color: #320606;
     display: flex;
     justify-content: space-around;
+    height: 90px;
 }
 
 header h1 {
@@ -19,7 +20,6 @@ header h1 {
     top: 20px;
     font-family:"Nunito", sans-serif ;
     color: #ac0d0d;
-    height: 80px;
 }
 
 .jordan {
