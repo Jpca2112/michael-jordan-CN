@@ -5,15 +5,15 @@ body{
 }
 
 main {
-    display: flex;
+    
 }
 
-main h1 {
+header h1 {
     font-family:"Nunito", sans-serif ;
     color: #ac0d0d;
 }
 
 .jordan {
     width: 80px;
-    
+
 }
