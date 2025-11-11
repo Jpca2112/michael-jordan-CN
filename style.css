@@ -12,7 +12,7 @@ header {
     background-color: #320606;
     display: flex;
     justify-content: space-around;
-    height: 90px;
+    height: 100px;
 }
 
 header h1 {
@@ -24,7 +24,7 @@ header h1 {
 
 .jordan {
     position: relative;
-    top: 20px;
+    top: 10px;
     width: 70px;
     height: 70px;
 
