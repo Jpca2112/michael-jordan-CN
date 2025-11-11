@@ -9,6 +9,7 @@ main {
 }
 
 header h1 {
+    display: inline-flex;
     font-family:"Nunito", sans-serif ;
     color: #ac0d0d;
 }
