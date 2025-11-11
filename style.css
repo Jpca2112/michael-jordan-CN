@@ -13,7 +13,7 @@ header {
 }
 
 header h1 {
-    display: inline-flex;
+    display: flex;
     font-family:"Nunito", sans-serif ;
     color: #ac0d0d;
     height: 80px;
